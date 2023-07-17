@@ -1,0 +1,13 @@
+name = "Advancement Frames"
+filename = "advancementframes-1.20-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zUBn5hHr/versions/TSz3RE0g/advancementframes-1.20-2.0.2.jar"
+hash-format = "sha1"
+hash = "bd208dd50c2d8ad572e3e2eedbab544276eaffa5"
+
+[update]
+[update.modrinth]
+mod-id = "zUBn5hHr"
+version = "TSz3RE0g"
