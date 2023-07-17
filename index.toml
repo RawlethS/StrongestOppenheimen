@@ -1,0 +1,100 @@
+hash-format = "sha256"
+
+[[files]]
+file = "Kikuri.png"
+hash = "4ffd742f7b4df0106a346a482fb5cc4cb6c6495a292cd91721bda9dad320719e"
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "5a9829577eb87bdcfe868961cd54d18c220a7f235940af8daddf6a1fa7e86938"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "28ba075aa9fa24584124b9dcf73a3568e09f57fda0f96a8e3e862159b6188cc7"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "58510b88f47699a5716c87d8815b8143250b0c1e8fc2a83be266d33907cd7137"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5d79957cc89a36aa873abf9fc3fcf074f040fa0d6784358ba501530505de040d"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b0660a5588f555f4e8e83aa82aae72228d9ba8323d3690dd4177ff67a7a4e44c"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "f72f29ff9b22571c7b46d452e893c219bc9d97cc0b190110c29e84d7a282d8ef"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "19a04fe61ab6aa65fb81c0a90cfc4bbb980f272428853a5cc58fb3eb5e622c3d"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "7bef7acb5b13ec858c5554a8c3d1fde694fa934a58b22e2aa5770989218ca064"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "da7459270716d11fa029fd0367f4b61ec74d3a626c344c1692691406e49f82a7"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a2f50a69539f2af4935cb9b7bb678e8dc3b2a7042c10bd4587dc8f94e14ed5d3"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "76a418dbee32fbe79d48d9d63f921a122c16b4880021ad80c528094a608b904e"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "1fdfe0cbfccf90bfe0ff8bb145f7f83d7d7540cb14f1c4171de36fc2ed02efb4"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "14b10ee3ac98f98a58c7f63984570a55c60989d9f4a736c629aab054802de859"
+metafile = true
