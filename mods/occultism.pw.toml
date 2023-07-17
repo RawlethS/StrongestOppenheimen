@@ -1,0 +1,13 @@
+name = "Occultism"
+filename = "occultism-1.20.1-1.81.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbJh4AZw/versions/x7tS2bmG/occultism-1.20.1-1.81.1.jar"
+hash-format = "sha1"
+hash = "9d9feff9ff9d7b9b0d279495c22da0a127c35175"
+
+[update]
+[update.modrinth]
+mod-id = "sbJh4AZw"
+version = "x7tS2bmG"

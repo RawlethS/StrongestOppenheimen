@@ -1,0 +1,13 @@
+name = "Spiky Spikes"
+filename = "SpikySpikes-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DUaLBLVL/versions/pqT6h2Eb/SpikySpikes-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "97204e6691f990b76b5fe3285675dfa327678871"
+
+[update]
+[update.modrinth]
+mod-id = "DUaLBLVL"
+version = "pqT6h2Eb"

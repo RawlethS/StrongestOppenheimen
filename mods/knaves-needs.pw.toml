@@ -1,0 +1,13 @@
+name = "Knaves' Needs"
+filename = "knavesneeds-forge-1.1.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/znkjY5Gb/versions/FuBhVqr7/knavesneeds-forge-1.1.4%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "636478aecf5f2daafa2a1c1b0dc944a7653d617d"
+
+[update]
+[update.modrinth]
+mod-id = "znkjY5Gb"
+version = "FuBhVqr7"

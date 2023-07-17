@@ -1,0 +1,13 @@
+name = "Forge Config Screens"
+filename = "ForgeConfigScreens-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5WeWGLoJ/versions/NJRmTOlf/ForgeConfigScreens-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "010e674ec975c55ac9b05126f586bf6ec04c12a6"
+
+[update]
+[update.modrinth]
+mod-id = "5WeWGLoJ"
+version = "NJRmTOlf"

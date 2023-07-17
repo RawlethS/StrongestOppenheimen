@@ -1,0 +1,13 @@
+name = "More MobGriefing Options"
+filename = "MoreMobGriefingOptions-1.20.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/423SG4Jc/versions/r8XKrDzx/MoreMobGriefingOptions-1.20.1-2.0.3.jar"
+hash-format = "sha1"
+hash = "f78cd0032e5f5f3f26bc930d20980025de89f179"
+
+[update]
+[update.modrinth]
+mod-id = "423SG4Jc"
+version = "r8XKrDzx"

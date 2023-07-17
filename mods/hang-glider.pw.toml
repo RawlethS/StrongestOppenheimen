@@ -1,0 +1,13 @@
+name = "Hang Glider"
+filename = "HangGlider-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uHWrqYcS/versions/2JOvT1po/HangGlider-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "431812c34bd5aa0cda611819fcc5a46bb0f15128"
+
+[update]
+[update.modrinth]
+mod-id = "uHWrqYcS"
+version = "2JOvT1po"

@@ -1,0 +1,13 @@
+name = "Permanent Sponges"
+filename = "PermanentSponges-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p6prwv2Q/versions/QZbk1lHm/PermanentSponges-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "155104ea77cbbb10d8b60d2de37a44b34c6c1da1"
+
+[update]
+[update.modrinth]
+mod-id = "p6prwv2Q"
+version = "QZbk1lHm"
