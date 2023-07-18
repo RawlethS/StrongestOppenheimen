@@ -5,6 +5,10 @@ file = "Kikuri.png"
 hash = "4ffd742f7b4df0106a346a482fb5cc4cb6c6495a292cd91721bda9dad320719e"
 
 [[files]]
+file = "LICENSE"
+hash = "646058215f6768b272d87c4270df481fe9592b8313dcf3278e6ca92117602d4a"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "b1d73729ee6e2003075faeac4978a397396c3c33786e656f82c02c6507007f02"
 metafile = true
@@ -46,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
+hash = "11577b0fa86cddb2fd26083409a9dbe4a2aadc031f9627ffeb38cca55095ac67"
 metafile = true
 
 [[files]]
@@ -121,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
-hash = "fe56fd26f8057a8be2e2687af34948b64c90c06eeb47d53e0a73be2e5793943d"
+hash = "943bd83f41b472ed7b4dd4236c826bd8f36983c32e3e7841b9ceca4d01531d53"
 metafile = true
 
 [[files]]
@@ -281,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
+hash = "7a4626079cc705ddf16e42b78cb43a02a0eb0b15c4cc7839546b503a85bb91fc"
 metafile = true
 
 [[files]]
@@ -536,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "f72f29ff9b22571c7b46d452e893c219bc9d97cc0b190110c29e84d7a282d8ef"
+hash = "ad9a67be1dbd198ae36236fb7d21f483c8e142f2b48cbf84d8e517faf4fac14c"
 metafile = true
 
 [[files]]
@@ -576,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "74343f6931d66da29809e437bfb83d19adcf2bf5c81861071fad6f049c70ed1e"
+hash = "d3034d45f3e7b6020053a693f52f083e138d0dc7eafcc48dfcafa0207cb336fb"
 metafile = true
 
 [[files]]
@@ -596,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
-hash = "7bef7acb5b13ec858c5554a8c3d1fde694fa934a58b22e2aa5770989218ca064"
+hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
 metafile = true
 
 [[files]]
@@ -1026,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/raw-ores-processing.pw.toml"
-hash = "97db06d4e2c6c8a6b69510990b20b42d837de079f488fd418361bf06fed17f20"
+hash = "218178eaaf17d1d89d6d4b3d72496cbb5deb1e38f364de03123a0927d7f2bee6"
 metafile = true
 
 [[files]]
@@ -1126,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "06b55600be7c3a8bdeac16df87aed6cae9e9b3d0466c21ca8be128b4967f46a6"
+hash = "f51bc5722faebd8c3a579af42ea4e4460142500e62ba3db6e45de4a95156f86f"
 metafile = true
 
 [[files]]
@@ -1371,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
-hash = "14b10ee3ac98f98a58c7f63984570a55c60989d9f4a736c629aab054802de859"
+hash = "889bf9423527eeeb8143d7a744060dc7d018d786507d46bae112965d8750cdd8"
 metafile = true
 
 [[files]]
