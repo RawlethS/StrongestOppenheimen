@@ -1,0 +1,13 @@
+name = "Combat Roll"
+filename = "combatroll-forge-1.2.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wGKYL7st/versions/buCwQh9G/combatroll-forge-1.2.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "fc792699af551103fe04ddf8a06e3ceaf85d4df6"
+
+[update]
+[update.modrinth]
+mod-id = "wGKYL7st"
+version = "buCwQh9G"

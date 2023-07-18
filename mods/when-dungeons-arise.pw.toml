@@ -1,0 +1,13 @@
+name = "When Dungeons Arise"
+filename = "DungeonsArise-1.20.1-2.1.56-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8DfbfASn/versions/uFLIFUCI/DungeonsArise-1.20.1-2.1.56-beta.jar"
+hash-format = "sha1"
+hash = "f28b8f46cbd1aa587eba950bb60888db257a4a1d"
+
+[update]
+[update.modrinth]
+mod-id = "8DfbfASn"
+version = "uFLIFUCI"

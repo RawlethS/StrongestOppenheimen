@@ -1,0 +1,13 @@
+name = "Better Burning"
+filename = "BetterBurning-Forge-1.20.1-9.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uNBP8Xul/versions/2YTPJmGs/BetterBurning-Forge-1.20.1-9.0.1.jar"
+hash-format = "sha1"
+hash = "29faeb90155b7085c3a47acf435424377e6fbd60"
+
+[update]
+[update.modrinth]
+mod-id = "uNBP8Xul"
+version = "2YTPJmGs"

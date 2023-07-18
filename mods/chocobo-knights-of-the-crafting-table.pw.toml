@@ -1,0 +1,13 @@
+name = "Chocobo Knights of the Crafting Table"
+filename = "ChocoboKnightsOfTheCraftingTableByBladeAndFeather-1.20.1-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YocWxQDa/versions/1Ezgjf2A/ChocoboKnightsOfTheCraftingTableByBladeAndFeather-1.20.1-1.0.13.jar"
+hash-format = "sha1"
+hash = "39934ac9c6288463ffd0d845131ee2ee6172802e"
+
+[update]
+[update.modrinth]
+mod-id = "YocWxQDa"
+version = "1Ezgjf2A"

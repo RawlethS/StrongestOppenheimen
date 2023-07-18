@@ -1,0 +1,13 @@
+name = "Death Knell"
+filename = "DeathKnell-Forge-1.20.1-10.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WNdd2blX/versions/TcL0GF1v/DeathKnell-Forge-1.20.1-10.0.1.jar"
+hash-format = "sha1"
+hash = "b37463817cd6de1abc4bd5f3a0aeed3a47e894b3"
+
+[update]
+[update.modrinth]
+mod-id = "WNdd2blX"
+version = "TcL0GF1v"

@@ -1,0 +1,13 @@
+name = "PatPatPat"
+filename = "PatPatPat-Forge-1.20-1.1.0-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BErx9tPq/versions/M6FrKokD/PatPatPat-Forge-1.20-1.1.0-hotfix.jar"
+hash-format = "sha1"
+hash = "16cf0741f6644596df34a325034951c9fbe16fc4"
+
+[update]
+[update.modrinth]
+mod-id = "BErx9tPq"
+version = "M6FrKokD"

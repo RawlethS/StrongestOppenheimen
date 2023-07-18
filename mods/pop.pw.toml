@@ -1,0 +1,13 @@
+name = "Pop!"
+filename = "pop-1.20.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nlFgvj7M/versions/QZezsdyT/pop-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "aceade93c4e3792700b59ac512682cfcd26a1140"
+
+[update]
+[update.modrinth]
+mod-id = "nlFgvj7M"
+version = "QZezsdyT"

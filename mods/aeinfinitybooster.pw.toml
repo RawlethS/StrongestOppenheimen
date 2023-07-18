@@ -1,0 +1,13 @@
+name = "AEInfinityBooster"
+filename = "AEInfinityBooster-1.20.1-1.0.0+19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VQhDBNs8/versions/jWhalLM0/AEInfinityBooster-1.20.1-1.0.0%2B19.jar"
+hash-format = "sha1"
+hash = "ee1bb98c47fad55338b927d2ef4a4f726154bdad"
+
+[update]
+[update.modrinth]
+mod-id = "VQhDBNs8"
+version = "jWhalLM0"

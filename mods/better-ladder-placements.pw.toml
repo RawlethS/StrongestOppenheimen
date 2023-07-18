@@ -1,0 +1,13 @@
+name = "Salju's Ladders"
+filename = "Salju-Ladders-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g5p2Z2CJ/versions/Frwk1a9j/Salju-Ladders-2.4.1.jar"
+hash-format = "sha1"
+hash = "16ecd72c55a9121796e25be964458daf266bf5d5"
+
+[update]
+[update.modrinth]
+mod-id = "g5p2Z2CJ"
+version = "Frwk1a9j"

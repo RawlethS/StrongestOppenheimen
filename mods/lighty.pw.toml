@@ -1,0 +1,13 @@
+name = "Lighty"
+filename = "lighty-forge-2.0.4+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yjvKidNM/versions/VMOdiW8x/lighty-forge-2.0.4%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "12216ada66ca6305de8ed69ebe62f473a363edb0"
+
+[update]
+[update.modrinth]
+mod-id = "yjvKidNM"
+version = "VMOdiW8x"

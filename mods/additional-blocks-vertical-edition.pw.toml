@@ -1,0 +1,13 @@
+name = "Additional Blocks: Vertical Edition"
+filename = "abverticaledition-1.0.3b-forge-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EZxoN8vL/versions/CNrRqwvg/abverticaledition-1.0.3b-forge-mc1.20.jar"
+hash-format = "sha1"
+hash = "604f5ec8259290e675cb709e662b9930a617c80f"
+
+[update]
+[update.modrinth]
+mod-id = "EZxoN8vL"
+version = "CNrRqwvg"

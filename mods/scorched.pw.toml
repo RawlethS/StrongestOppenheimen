@@ -1,0 +1,13 @@
+name = "Scorched"
+filename = "scorched-1.1.2d.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yID404Mu/versions/DR0m3wrz/scorched-1.1.2d.jar"
+hash-format = "sha1"
+hash = "3e471dd3b637b881aa2f6cea70ec5a979a0ad4aa"
+
+[update]
+[update.modrinth]
+mod-id = "yID404Mu"
+version = "DR0m3wrz"
