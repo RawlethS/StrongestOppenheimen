@@ -1,0 +1,13 @@
+name = "Create Planetary Tweaks"
+filename = "cp_tweaks-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18ddff5ddbbb2a1faf65348df6c5cbd6b019357c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4642395
+project-id = 594527

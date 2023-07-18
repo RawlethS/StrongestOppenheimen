@@ -1,0 +1,13 @@
+name = "Jade Addons (Forge)"
+filename = "JadeAddons-1.20.1-forge-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/Fupwl7P5/JadeAddons-1.20.1-forge-5.1.0.jar"
+hash-format = "sha1"
+hash = "b13c6911851eeb5ab172e05f11eed5d5cd9b3f2f"
+
+[update]
+[update.modrinth]
+mod-id = "xuDOzCLy"
+version = "Fupwl7P5"
