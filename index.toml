@@ -793,11 +793,6 @@ hash = "25605f19b3426005c26156436ebd826277d5f5784be6505ad3e82e44c2363ff2"
 metafile = true
 
 [[files]]
-file = "mods/modonomicon.pw.toml"
-hash = "ad4cc639b01a1354dc42e2fbfba6bdd60e076ee80b4ccf37dca74d09633adccb"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "935daaca5fa18c9f8543ba26a76c5b1b811505456a3e983c713d4da18ca84b44"
 metafile = true
