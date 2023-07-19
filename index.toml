@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Kikuri.png"
-hash = "4ffd742f7b4df0106a346a482fb5cc4cb6c6495a292cd91721bda9dad320719e"
-
-[[files]]
 file = "LICENSE"
 hash = "646058215f6768b272d87c4270df481fe9592b8313dcf3278e6ca92117602d4a"
+
+[[files]]
+file = "icon.png"
+hash = "4ffd742f7b4df0106a346a482fb5cc4cb6c6495a292cd91721bda9dad320719e"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
@@ -41,11 +41,6 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "33a002ebb2b5e8bb97e3a160cd93a2081cfb8a8c5f188f48c86deeeef996d394"
-metafile = true
-
-[[files]]
-file = "mods/aeinfinitybooster.pw.toml"
-hash = "77fa7df696d81222fe42a6bccd2691b9c08c7a1bf4a5a09872d42bf5a2944cf3"
 metafile = true
 
 [[files]]
@@ -275,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/cleardespawn.pw.toml"
-hash = "bddaf13084f2f5bceae32731a8d6ab2285894e9e329a6433b94e7e7a14fbf71f"
+hash = "8ad7355984b41a299da7f6e20ac25cad91d7229fbc8a627a926e593c4f66db1b"
 metafile = true
 
 [[files]]
@@ -430,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
-hash = "f1f31c583888f30e77c9eb2726457de6a31857935619f36c715ed665238902da"
+hash = "66b6873036d61e86ef160b629a80b3cf3e08412d8f930619b6715b4aa60a0f4a"
 metafile = true
 
 [[files]]
@@ -515,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare.pw.toml"
-hash = "c5c53fa11b678db35a10bb734ef533c29a0442ad0773628925f9eea532d56583"
+hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
 metafile = true
 
 [[files]]
@@ -645,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "cd2db3caaf561b6871f8db484cb42a7987c9680844bd9e8f1009038fcfe195b9"
+hash = "825fcb4a0f15dfbff6080f38ecebabca546a7a9a5475e8580d7959b4960aa4d0"
 metafile = true
 
 [[files]]
@@ -865,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c232e404d35fa6a62a9adf121e677006008657fa984832058f87bd0dc3b8c915"
+hash = "935daaca5fa18c9f8543ba26a76c5b1b811505456a3e983c713d4da18ca84b44"
 metafile = true
 
 [[files]]
@@ -1055,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "b96e407d6e1bd4f02e610b6223251ff0401a6946d604fe6e4562a938f7ddded2"
+hash = "cbba0008fd2ea7b01fa75cd4bdd78ecf7dd9cddafe6b673ef869548b67b126ec"
 metafile = true
 
 [[files]]
@@ -1090,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "76a418dbee32fbe79d48d9d63f921a122c16b4880021ad80c528094a608b904e"
+hash = "e72d25a5c58f5083f26ec059b1e3231059159e18fa42ef473eb2f7e902e49b11"
 metafile = true
 
 [[files]]
@@ -1240,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8fd8e699674aa3d804401e84fbf15a7990f1893a74beb9fc21fc0d0cbbf84b46"
+hash = "b79ccf135b636cbf654d83c24721a55ef23927d6151b083898d2cebdb06c5aa3"
 metafile = true
 
 [[files]]
