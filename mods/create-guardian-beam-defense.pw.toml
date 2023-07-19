@@ -1,13 +1,13 @@
 name = "Create Guardian Beam Defense"
-filename = "Create-Guardian-Beam-Defense-1.2.4b-1.20.1.jar"
+filename = "Create-Guardian-Beam-Defense-1.2.5b-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ddfff4fc2135ba268aaa4c6c518d9432b906a73b"
+hash = "27d80b062d41594bcb6815cb9d6c13ec9e1cbe03"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4631170
+file-id = 4652440
 project-id = 860168
