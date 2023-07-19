@@ -1,13 +1,13 @@
 name = "The Twilight Forest"
-filename = "twilightforest-1.20.1-4.3.1740-universal.jar"
+filename = "twilightforest-1.20.1-4.3.1750-universal.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4e126af176541a47022e77ab20592e6d238aecbd"
+hash = "16ed81f40e57ab9e0702c250a66e2d13119fb3cb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4635921
+file-id = 4653704
 project-id = 227639

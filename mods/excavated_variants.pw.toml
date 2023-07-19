@@ -1,13 +1,13 @@
 name = "Excavated Variants"
-filename = "excavatedvariants-forge-1.20.1-3.0.4.jar"
+filename = "excavatedvariants-forge-1.20.1-3.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IZaMGxb0/versions/s6kUZF0V/excavatedvariants-forge-1.20.1-3.0.4.jar"
+url = "https://cdn.modrinth.com/data/IZaMGxb0/versions/edODjBEr/excavatedvariants-forge-1.20.1-3.0.5.jar"
 hash-format = "sha1"
-hash = "b1cc218f22eb904c1e1049099c0f8437efc32f07"
+hash = "4f312f7c8b54009113ffe93ccc36e70a9935d249"
 
 [update]
 [update.modrinth]
 mod-id = "IZaMGxb0"
-version = "s6kUZF0V"
+version = "edODjBEr"

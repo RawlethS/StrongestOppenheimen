@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/ash-api.pw.toml"
-hash = "27972aa4e0517dcab3441668a3a8d493375070752fba759e30588f290042da80"
+hash = "af7097caf7339e88dc4b525ea70f30fb810a2e475cdc2fe710686af5f56e095c"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d5c260b94aad248f0d36468d709100207f2e73713bf7789cafb004eb78b060d3"
+hash = "c59062fa5225d2028a29c3085ef37d18a72cf6e019c37bf5f4369b3af4d20bd4"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-infuser.pw.toml"
-hash = "9c50282b99950be6bb12c741856433e01054412d33cb22160df20750f46e754a"
+hash = "6465a4be5754d8544195358c4d3d7f7ae983312802737aa49068be7f1b1a1395"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/excavated_variants.pw.toml"
-hash = "eedb23653b0852d9de049f7f08a5dae916d5731c4071dbb203556c7e932f5b6b"
+hash = "837fd1ddeeb51b8157b5370b58c70edaf2c9a92e2a5ba1d0d3837ea176333106"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "7ca736b2f1301bca99e0c8ac004e4c305851fd0ca784d788babd7c679771a48e"
+hash = "b609a104588f660fe9ae8d818b290794d73386ace1ce6e15569023c4c2581687"
 metafile = true
 
 [[files]]
@@ -789,12 +789,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a2f50a69539f2af4935cb9b7bb678e8dc3b2a7042c10bd4587dc8f94e14ed5d3"
+hash = "25605f19b3426005c26156436ebd826277d5f5784be6505ad3e82e44c2363ff2"
 metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "717b64b996e9dc5620d796fe92cd3737bcea0160e3fe80ccfa30670a67676fcf"
+hash = "ad4cc639b01a1354dc42e2fbfba6bdd60e076ee80b4ccf37dca74d09633adccb"
 metafile = true
 
 [[files]]
@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "bcc1bd7a7da9a2adec0c7198eee3fc4c81da07980ec58b073988680bc00251d7"
+hash = "e06cf55ecf08ebe444f43f267e52b51daa93603404ed37de60569c348c1f3f4d"
 metafile = true
 
 [[files]]
@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "c65d3e3bdb59fc4310480d4cf623470c5ffe2361861d1d75af8bd5cc02ef297a"
+hash = "6ee5edada367ddb0941154bddfcc1786647b7ce1f60a5cf10e1b5667e516dd31"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "7820ac2e68740512913583c6cc40d8e1a27070e46ea44599ed5dd458ff6b90e8"
+hash = "4637db1680dece2f23e7b128fad93d6224f8d19aada59ac760a2546252b5f066"
 metafile = true
 
 [[files]]
@@ -1164,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "358aeb2c20e8b01ddb94f93ad83f126f5e41c06ebe53b1fed81dd93bd02cdbfc"
+hash = "9eed6a6d8a28a99afbd630158bd8cbab75dc46e29f2e24dae714d3cba3c8145f"
 metafile = true
 
 [[files]]

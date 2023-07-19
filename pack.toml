@@ -1,15 +1,15 @@
 name = "Strongest Oppenheimen"
 author = "Varg"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1c5e5fdd88ea4352f6a985122cc655c8d8529c2e32a83328e3ae1881bbbb112d"
+hash = "db65da1edb6c26c978c2a1e8c5080558396cc2a58c58d019e333ff4ef3b20355"
 
 [versions]
-forge = "47.1.36"
+forge = "47.1.1"
 minecraft = "1.20.1"
 
 [options]
