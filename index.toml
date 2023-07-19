@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "646058215f6768b272d87c4270df481fe9592b8313dcf3278e6ca92117602d4a"
 
 [[files]]
+file = "README.md"
+hash = "f9d13fd2a96b360be91d30e7e0b2e89b6ab5cbe1d5bbb7ada7d9c3815cdb741f"
+
+[[files]]
 file = "icon.png"
 hash = "4ffd742f7b4df0106a346a482fb5cc4cb6c6495a292cd91721bda9dad320719e"
 
