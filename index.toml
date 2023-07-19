@@ -443,11 +443,6 @@ hash = "7520f28551842509426079305d6543b6e75486ccf30071c26ef18b5c6a4c2a01"
 metafile = true
 
 [[files]]
-file = "mods/endertanks.pw.toml"
-hash = "9d987d247f51bb5d55672f45993c95058612726423640f9dfae0658d08b10939"
-metafile = true
-
-[[files]]
 file = "mods/endrem.pw.toml"
 hash = "eba379d7995e69e15a1666fc6997841c93f656220137d3ac88c2ce79e696dd41"
 metafile = true
@@ -845,11 +840,6 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "c2e46d52c71471e9f1c911fc5f29ae3b777d0b77a55795b1e1e5c69f84a7f8d7"
-metafile = true
-
-[[files]]
-file = "mods/occultism.pw.toml"
-hash = "e06cf55ecf08ebe444f43f267e52b51daa93603404ed37de60569c348c1f3f4d"
 metafile = true
 
 [[files]]
