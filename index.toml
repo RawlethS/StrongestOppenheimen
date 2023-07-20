@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/goated.pw.toml"
-hash = "b1840b090ed5118cdec0ed83ddd1c79677470425138339761d1ade4a4b86a5f8"
+hash = "87786afa6a6c517d21f027f72eb4edc89b2ef4fb53a20ade2cc57f6116720521"
 metafile = true
 
 [[files]]
@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/kambrik.pw.toml"
-hash = "00cd651124dfde9d21532fbc8f3146816d49ea9466a1ac935064a12c9adcfc2f"
+hash = "02d62680362984af051a1fa301c4f3f7c36037f0253f96187ad4016e04907961"
 metafile = true
 
 [[files]]
@@ -784,12 +784,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "25605f19b3426005c26156436ebd826277d5f5784be6505ad3e82e44c2363ff2"
+hash = "7cdc223f2afc0a6dbff7a9c74ae15fde04a721dfbeea1665a3a170e206c9b7d9"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "935daaca5fa18c9f8543ba26a76c5b1b811505456a3e983c713d4da18ca84b44"
+hash = "b326bb372c73094e60b9880fd7d9a8c42365f8720d773c0e995763b1dfc4d3fe"
 metafile = true
 
 [[files]]
@@ -1089,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-life-onion.pw.toml"
-hash = "078063ba2c59db81e4b5e2fdbd3b28fef0cc8764207cac1b49d3ac85242fbc48"
+hash = "3ddba7a1d6230a13b8389b3b4528abf6c20e4295717d1bf9760180bedef81266"
 metafile = true
 
 [[files]]

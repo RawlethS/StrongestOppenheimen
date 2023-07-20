@@ -1,13 +1,13 @@
 name = "You've Goat to be Kidding Me"
-filename = "goated-1.20-1.3.2.jar"
+filename = "goated-1.20-1.3.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/L7dBwZPX/versions/8Cf3hMuP/goated-1.20-1.3.2.jar"
+url = "https://cdn.modrinth.com/data/L7dBwZPX/versions/npvVQhiE/goated-1.20-1.3.3.jar"
 hash-format = "sha1"
-hash = "8c535ff11a4338039b6a4cfe8132ba9ee2c843e0"
+hash = "48448a156616ad382e7bf6964e2ee0212984a42a"
 
 [update]
 [update.modrinth]
 mod-id = "L7dBwZPX"
-version = "8Cf3hMuP"
+version = "npvVQhiE"
