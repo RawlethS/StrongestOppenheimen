@@ -298,6 +298,11 @@ hash = "025bbb7c48fa618c3653032025f9b93a490668749634b36d9695f76cd3d81619"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "613699c75a8daa38870685b90105a3449500fdc8a915d6d15cf6a925401b757b"
+metafile = true
+
+[[files]]
 file = "mods/corail-woodcutter.pw.toml"
 hash = "79cf8da908874fa6f815b1afbe53961d98f1244fd0f049d6637c5817df051bf8"
 metafile = true
@@ -395,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/dimension-viewer.pw.toml"
 hash = "19dc9720a5da07332607fa88d5a55a20224337689fc1037fa9efa2b26245d0a8"
+metafile = true
+
+[[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "412945c387d4b8a69fc323075ad118681a77d5448bec6af41e55dcdae35e317c"
 metafile = true
 
 [[files]]
@@ -815,6 +825,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "ec4a00268b0b14712a0745ab856a23c4d898a3d2e450e84ec1e57a3e5dcec06a"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
 metafile = true
 
 [[files]]
@@ -1240,6 +1255,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "3dfbedfa516ac13e7f639834ed37440331dc8203db30ee8f57d7db0f79ca1193"
+metafile = true
+
+[[files]]
+file = "mods/whetstones.pw.toml"
+hash = "1407e152dd691cb613519e88a166e72abed0f6937339657f8da7f1f415830dc2"
 metafile = true
 
 [[files]]
