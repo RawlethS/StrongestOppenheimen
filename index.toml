@@ -29,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-frames.pw.toml"
-hash = "a5a0490bc5df54c8f988ce7cb11ef0c798c3212790d4cf216206482f6a50f42b"
+hash = "653a611a27af97aec965d738343ccf9b835d8bd1047ad56ed6f6d66e4e268cd8"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "366ce2ccd4123896dea5637d77025ed600b28654b61f4904ed4c63dee42c3804"
+hash = "141e5b5a4165db25c764f29fee24e370493474f374b58e853b1bc885c7f528c7"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "e7058b3f1662ee8f9553a6d3d473250fec94a1bb992896db8b770078539095c4"
+hash = "f392b93e42b9da3c83a3f98a061500a72931d8a848ac66ff15ea2f8669ce8e0d"
 metafile = true
 
 [[files]]
@@ -95,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/ash-api.pw.toml"
 hash = "af7097caf7339e88dc4b525ea70f30fb810a2e475cdc2fe710686af5f56e095c"
+metafile = true
+
+[[files]]
+file = "mods/async-locator.pw.toml"
+hash = "89a00ce9f08a33a529f3f9a8baa50e281cbd50d451720e219a62928eb155c686"
 metafile = true
 
 [[files]]
@@ -309,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-guardian-beam-defense.pw.toml"
-hash = "5456348a4f96f1359e36c0b4861e13b773a2ec58f9861d5820ce2385f8a814d1"
+hash = "ca7b70acc4a508f3ea7057337b4967470ce8d7f6d104cdfdf44a7483573f6689"
 metafile = true
 
 [[files]]
@@ -324,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-planetary-tweaks.pw.toml"
-hash = "4425427770b1a34bc8dcb800fa816cae46a8a3b976f6fc018e07f62b1d5724a4"
+hash = "b4e01279205e0ad8d3e9e2d8a9b16f9476db10661488970738196762c6938ab9"
 metafile = true
 
 [[files]]
@@ -334,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "c59062fa5225d2028a29c3085ef37d18a72cf6e019c37bf5f4369b3af4d20bd4"
+hash = "d633dccf9a8194ba46a8bd977b92bb2b461ea5c260f428ecb80ddbacad1297a7"
 metafile = true
 
 [[files]]
@@ -463,11 +468,6 @@ hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
 metafile = true
 
 [[files]]
-file = "mods/excavated_variants.pw.toml"
-hash = "837fd1ddeeb51b8157b5370b58c70edaf2c9a92e2a5ba1d0d3837ea176333106"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "608a44f8f32143d444480bc5cecbab34541790280a85a375bef9889290687b70"
 metafile = true
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/incendium.pw.toml"
-hash = "b93b6c1d70c3f18cacd25a7d1c0688b899bbe610e2a3f6bd013c36e34ef14298"
+hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
 metafile = true
 
 [[files]]
@@ -784,12 +784,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7cdc223f2afc0a6dbff7a9c74ae15fde04a721dfbeea1665a3a170e206c9b7d9"
+hash = "5bb8e2d9771885a5de897d10f572183642ff27c0a3dbc0e6125ff64435c521ea"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b326bb372c73094e60b9880fd7d9a8c42365f8720d773c0e995763b1dfc4d3fe"
+hash = "502675918b5bc4ecc9a7d3141ed1547992f020e31a771fb727d1c887be47e73b"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorched.pw.toml"
-hash = "9e15c83778d1a7f0927821bc247378bd5def525933791e205ed2b91733c022be"
+hash = "94c29bfc3309f3da6e08f1d09502bf1f5fc0730d2fa578801daf1f297d6f502a"
 metafile = true
 
 [[files]]
@@ -1139,7 +1139,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "853f96e32cc8d63803a766a076433af65eed52d8fa1beaede5dddbe6f36b7260"
+hash = "4586c1cc843da871837e32af14a69af5cfe5f905a913e98cefe33e866f16b85a"
 metafile = true
 
 [[files]]
