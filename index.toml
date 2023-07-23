@@ -408,11 +408,6 @@ hash = "19dc9720a5da07332607fa88d5a55a20224337689fc1037fa9efa2b26245d0a8"
 metafile = true
 
 [[files]]
-file = "mods/discord-integration-(di).pw.toml"
-hash = "93f69088c2b81428b262abe38119c9ef5fa574ea1d8bfb0558e45736e0fe1dbc"
-metafile = true
-
-[[files]]
 file = "mods/distant-friends.pw.toml"
 hash = "412945c387d4b8a69fc323075ad118681a77d5448bec6af41e55dcdae35e317c"
 metafile = true
@@ -435,11 +430,6 @@ metafile = true
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "8d314e0af9f0c8ea01895c22c6b611f0ef560d86653b53e5e15ad755a99da7bc"
-metafile = true
-
-[[files]]
-file = "mods/dynamic_asset_generator.pw.toml"
-hash = "0643f143d9af807312d1161ad685e0b63d4643b14d6f8384034b97a2c8de1d30"
 metafile = true
 
 [[files]]
@@ -723,11 +713,6 @@ hash = "f44679104e78f6814efdf61604db766676513759dc81a419ecda8ada0de2f974"
 metafile = true
 
 [[files]]
-file = "mods/log-begone.pw.toml"
-hash = "da7459270716d11fa029fd0367f4b61ec74d3a626c344c1692691406e49f82a7"
-metafile = true
-
-[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "5ea6a2ce781c97641e1450399541dce3adcc7eb1216d8d857353697ec68d40da"
 metafile = true
@@ -808,11 +793,6 @@ hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "7beba38db490b2e7e319521bc2b6d0e494f7b52bbcc7b75369c4f85730385669"
-metafile = true
-
-[[files]]
 file = "mods/mindful-darkness.pw.toml"
 hash = "b7cb1e28623a39cbce0fc6a552817302bfcf4f4b5fc474bbdf3fdff8221ca5ff"
 metafile = true
@@ -825,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "8370d3602ecb1545b052f81035ff92e3e2cab7dc549fde5a4effb24542bccbc0"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "5bb8e2d9771885a5de897d10f572183642ff27c0a3dbc0e6125ff64435c521ea"
 metafile = true
 
 [[files]]
@@ -974,7 +959,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8a072658b165f95d3202576f5c3490d1a94ded321ef013bf77ab93cff2a010dd"
+hash = "29dcef821a593c783de317fdddab9450ecfb93939b6f28334667d7c698a7469c"
 metafile = true
 
 [[files]]
@@ -994,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled.pw.toml"
-hash = "7ffed185400da36ffdb580518d311397cde2450672480c7833b0f0b5b71f9828"
+hash = "403936defe64fd653e1d4c7967a172c01698085522a77e3cddb1a3d8bc10350a"
 metafile = true
 
 [[files]]
@@ -1209,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "b986965c87d787d21c7f7d987367ee2a26b05a12307f98eb216f390cc7cbc011"
+hash = "b0ce26a397ebce1867be51544f8301ed2942a137283f0ce4a79af45b6bb6df6b"
 metafile = true
 
 [[files]]
