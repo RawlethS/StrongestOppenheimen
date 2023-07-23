@@ -1058,11 +1058,6 @@ hash = "94c29bfc3309f3da6e08f1d09502bf1f5fc0730d2fa578801daf1f297d6f502a"
 metafile = true
 
 [[files]]
-file = "mods/sculk-expansion.pw.toml"
-hash = "50122878087d5c734bd03a6dce810259d741778fb263e6c50546b2d613bea405"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
 metafile = true
