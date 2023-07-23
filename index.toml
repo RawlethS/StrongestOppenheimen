@@ -828,11 +828,6 @@ hash = "8370d3602ecb1545b052f81035ff92e3e2cab7dc549fde5a4effb24542bccbc0"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "5bb8e2d9771885a5de897d10f572183642ff27c0a3dbc0e6125ff64435c521ea"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "502675918b5bc4ecc9a7d3141ed1547992f020e31a771fb727d1c887be47e73b"
 metafile = true
