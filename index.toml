@@ -333,6 +333,11 @@ hash = "5c9fabab3bf31027a08ad51e6a52760df71fcf6d3d9df7ed4c4c9107fae3f69c"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "9412d3b61adeab0fd302c666d4a2fe3645352c11cf84e0246fcf5b450737e69a"
+metafile = true
+
+[[files]]
 file = "mods/create-planetary-tweaks.pw.toml"
 hash = "b4e01279205e0ad8d3e9e2d8a9b16f9476db10661488970738196762c6938ab9"
 metafile = true
@@ -394,12 +399,17 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "16ba5e147d178e49f0b83ffbfa3767fff62c9eda74251265b8b8a3a62c0c4192"
+hash = "52c4b8868c8a9b9f5adbb701bf06aca4edf9ee08908a2a245bde6f66c6f86d6e"
 metafile = true
 
 [[files]]
 file = "mods/dimension-viewer.pw.toml"
 hash = "19dc9720a5da07332607fa88d5a55a20224337689fc1037fa9efa2b26245d0a8"
+metafile = true
+
+[[files]]
+file = "mods/discord-integration-(di).pw.toml"
+hash = "93f69088c2b81428b262abe38119c9ef5fa574ea1d8bfb0558e45736e0fe1dbc"
 metafile = true
 
 [[files]]
@@ -415,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "66b6873036d61e86ef160b629a80b3cf3e08412d8f930619b6715b4aa60a0f4a"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
 metafile = true
 
 [[files]]
@@ -434,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
-hash = "807faaaac556d967e01e9034d443ef234b17d0638f862dee42e1a7228a0ff2ca"
+hash = "b6a2eece281f73726473d67ae7de5010886a6bf82a75ea3049620851f70c11b1"
 metafile = true
 
 [[files]]
@@ -475,6 +490,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "a1adb1aad8523f7c80a892325a3a1a09ccaf274c8139cace43df061f75181203"
 metafile = true
 
 [[files]]
@@ -540,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e572156c4e1b7e49182ab335f5ffd5caf4d35627bc47880a3cca5e47f4e33b03"
+metafile = true
+
+[[files]]
+file = "mods/genshin-instruments.pw.toml"
+hash = "44696c75d98ed1b29b5692f65fa663187cf3a21307758414d2eb6ba2e1d8fd96"
 metafile = true
 
 [[files]]
@@ -658,6 +683,11 @@ hash = "b2596dec9111b739cd6b78eef860b91f272a6d74d1b7dc8e35d2c156f5bcd781"
 metafile = true
 
 [[files]]
+file = "mods/l_ender-s-cataclysm.pw.toml"
+hash = "dae07acedbed813d6664704c4ece96e8ca989c7eb1b8e70ac2b142ce762c4292"
+metafile = true
+
+[[files]]
 file = "mods/labels.pw.toml"
 hash = "3c1214a37be6db76e57e0970f4ada99d674aff2e1a3facba7ba32f57bccf8e29"
 metafile = true
@@ -695,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/log-begone.pw.toml"
 hash = "da7459270716d11fa029fd0367f4b61ec74d3a626c344c1692691406e49f82a7"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "5ea6a2ce781c97641e1450399541dce3adcc7eb1216d8d857353697ec68d40da"
 metafile = true
 
 [[files]]
@@ -1163,6 +1198,11 @@ hash = "b4ef6d8fb0b92bf5ae97cecf265f8f49e3b2a91623aec8256ad1ffd9bdb1145b"
 metafile = true
 
 [[files]]
+file = "mods/the-lost-castle.pw.toml"
+hash = "93b1ca1569798d90a02b411f5287ae3cc6fdf0d36e152d05618ce349d00e5fc5"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "9eed6a6d8a28a99afbd630158bd8cbab75dc46e29f2e24dae714d3cba3c8145f"
 metafile = true
@@ -1264,12 +1304,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a58a4fc67d15233948364416881796b9cba8b2ffa1fe368b1219ba482d133f42"
+hash = "6eedc5cda240703405ed16039cb088429ba3e1be740aa9f32e511afbaa1d7d3b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7bbcc05b5c07d5a4af12f4be0c89698ce865c57abfbed94bbede619dc12c3692"
+hash = "2692e873d06baa528c0121e6451007b88eba802893ef67b3b20a00fff066cb08"
 metafile = true
 
 [[files]]
