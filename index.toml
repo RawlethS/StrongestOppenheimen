@@ -378,11 +378,6 @@ hash = "5a1ada7c9957ef15584cefb5941bf2bde1f290547544766c03412d3f4f499fda"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "986109c3828949d5f70feaabc49127d34f9944d5f2091973287aea0464b899b9"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "67ec6cbf94d9fec675d7d342dec65228228585ca36f8bfb7b727b459f4779854"
 metafile = true
