@@ -1,0 +1,13 @@
+name = "Effect Descriptions"
+filename = "EffectDescriptions-v8.0.0-1.20.1-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kw73iLDq/versions/jNjbjgWj/EffectDescriptions-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "c13ba21f94abbbdd898738e4f12c367cea5ecb2a"
+
+[update]
+[update.modrinth]
+mod-id = "Kw73iLDq"
+version = "jNjbjgWj"

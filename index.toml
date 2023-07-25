@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e25d1ace1ffb5c825d6d7aa2e3b4efdcb6fc69c489839c8c6882ea00b50095fd"
+hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
@@ -218,11 +218,6 @@ hash = "1cde5b24783318d1a0b6e2f56f2d04438a34922ef0b3e2cfd6f910557bea25a2"
 metafile = true
 
 [[files]]
-file = "mods/bovines-and-buttercups.pw.toml"
-hash = "e68a022fd92a1250ecf0cbcb5b64e01c844addb69fd2bd6fb2e1d73e4ad6ce42"
-metafile = true
-
-[[files]]
 file = "mods/bushier-flowers.pw.toml"
 hash = "ffec0eb07da96e0cdb4c751814676510c9d495e82d290cd24b0f272f5994c62c"
 metafile = true
@@ -349,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d633dccf9a8194ba46a8bd977b92bb2b461ea5c260f428ecb80ddbacad1297a7"
+hash = "30965c8f7175dd885351bd6025ff5142761a7b27c7d213200ac4a77bdae97b95"
 metafile = true
 
 [[files]]
@@ -403,11 +398,6 @@ hash = "19dc9720a5da07332607fa88d5a55a20224337689fc1037fa9efa2b26245d0a8"
 metafile = true
 
 [[files]]
-file = "mods/distant-friends.pw.toml"
-hash = "412945c387d4b8a69fc323075ad118681a77d5448bec6af41e55dcdae35e317c"
-metafile = true
-
-[[files]]
 file = "mods/distinguished-potions.pw.toml"
 hash = "bd61214e1f30e2fdc22bf69b2bcad88877abd9e55ad69855054520a89b32cca3"
 metafile = true
@@ -429,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-anvils.pw.toml"
-hash = "2a1c26ed5c199ffaeb674ac9a75c21041289c54c7cd46aae59002cee1904c99f"
+hash = "2bf09104825f31e24e2dfacbe57ffe6fd97283a1e779d9d7efa9f043e77d295e"
 metafile = true
 
 [[files]]
@@ -443,8 +433,18 @@ hash = "501d8fadb537da7104d90fab54ab03250d2a4ec6087bba986bf35bfc3d72fe48"
 metafile = true
 
 [[files]]
+file = "mods/effect-descriptions.pw.toml"
+hash = "11b72b9d42107a7c50cd3387fcb0b995293d532818b99e8cd79eaddb1e59e853"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "6465a4be5754d8544195358c4d3d7f7ae983312802737aa49068be7f1b1a1395"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "90504494f6009da3ffd26047f39f776c90ff33635539cf0ab65b6b04ad7bb5de"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "825fcb4a0f15dfbff6080f38ecebabca546a7a9a5475e8580d7959b4960aa4d0"
+hash = "65378b27e31a702d6c668c831cf2f69d2d8f887e8f1708724b41ca657e787747"
 metafile = true
 
 [[files]]
@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/l_ender-s-cataclysm.pw.toml"
-hash = "dae07acedbed813d6664704c4ece96e8ca989c7eb1b8e70ac2b142ce762c4292"
+hash = "173728457c006e80bd68de4160ab065923433c01432fdb6cec5c3c8a19765ea1"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "022c19beff87d847ba29e574492cc81d9acc5ed5a280f7d4f919612174abd582"
+hash = "f25cdd320363610101e752d673387c07a661bb406cac521b4262990f5a1ed443"
 metafile = true
 
 [[files]]
@@ -799,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "8370d3602ecb1545b052f81035ff92e3e2cab7dc549fde5a4effb24542bccbc0"
+hash = "d175da6da5751c95238cf193ddf83d2d9aba806680a7abe1ef368c84b1da7960"
 metafile = true
 
 [[files]]
@@ -873,11 +873,6 @@ hash = "5304520a63731d43091412cabe6e285b5869cbe00e774b3e6e5d9327e14f8632"
 metafile = true
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "96952831e2637ee09931cd5867651ca97fe8eead85d81d1bd839e71378c32701"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "52c410eec403ed2cc909721bc7f6b58a2298cb964cb7735d2fed42113bfad032"
 metafile = true
@@ -890,11 +885,6 @@ metafile = true
 [[files]]
 file = "mods/permanent-sponges.pw.toml"
 hash = "e04c7ec31d1fc0789cf95250cd28cce35e986de99b1d6aa8c57b78e6a2828084"
-metafile = true
-
-[[files]]
-file = "mods/pet-pass-trade-your-pets!.pw.toml"
-hash = "aa03fcf768735d8fe0d2d1579579facf52a3d5e3c357e4e15299fc1a7295c7f1"
 metafile = true
 
 [[files]]
@@ -954,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "29dcef821a593c783de317fdddab9450ecfb93939b6f28334667d7c698a7469c"
+hash = "32bcaa32579533a3ebca2f2b046fbc8b98c5c1bdacfebf8256fda70f8f9fdfee"
 metafile = true
 
 [[files]]
@@ -1059,7 +1049,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "4637db1680dece2f23e7b128fad93d6224f8d19aada59ac760a2546252b5f066"
+hash = "3fb8be3bbc07de4df08b7d0d302ace477f2a2a0274f8d20ec9664d0458a8fb8f"
 metafile = true
 
 [[files]]
@@ -1144,7 +1134,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "14877fe8d3b2cea97e430fecc225eeb471da76155df0894e703721796b66ff6f"
+hash = "3c8b097b00c77c248d4050da77dd3241a753e18e287a1955ca3f2711298fcd4e"
 metafile = true
 
 [[files]]
