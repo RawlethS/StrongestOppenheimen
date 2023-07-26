@@ -9,6 +9,22 @@ file = "README.md"
 hash = "f9d13fd2a96b360be91d30e7e0b2e89b6ab5cbe1d5bbb7ada7d9c3815cdb741f"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "368eb7ccf94809ce8aea8ab1dab0a7f75bb5781f6e02ccd11462539bae70b59b"
+
+[[files]]
+file = "config/combatroll/hud_config.json"
+hash = "677ec4d5e16966533da1f131651086feaa9f8c27efb609c1a7dab6a5bf7bb070"
+
+[[files]]
+file = "config/fpsreducer/fpsreducer-client.toml"
+hash = "61fe396ad8a73e8d8cfdcce8adfba40b8f33845947b5b5a66b1eb8167e6a79db"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "9c24b6b7cd9f9c491ff4b7097bb0c071a9a32b422d996bd1b4535208882232c2"
+
+[[files]]
 file = "icon.png"
 hash = "4ffd742f7b4df0106a346a482fb5cc4cb6c6495a292cd91721bda9dad320719e"
 
@@ -398,6 +414,11 @@ hash = "19dc9720a5da07332607fa88d5a55a20224337689fc1037fa9efa2b26245d0a8"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "9a47ae3e125db2d8222de6b8e145678687201e500f9b788b9fd014619db091c3"
+metafile = true
+
+[[files]]
 file = "mods/distinguished-potions.pw.toml"
 hash = "bd61214e1f30e2fdc22bf69b2bcad88877abd9e55ad69855054520a89b32cca3"
 metafile = true
@@ -444,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "90504494f6009da3ffd26047f39f776c90ff33635539cf0ab65b6b04ad7bb5de"
+hash = "4ec253f65d2df7d9a8fdb70e3ee03a002419d9b51c0593499392d25176548d0d"
 metafile = true
 
 [[files]]
