@@ -1179,6 +1179,11 @@ hash = "b4ef6d8fb0b92bf5ae97cecf265f8f49e3b2a91623aec8256ad1ffd9bdb1145b"
 metafile = true
 
 [[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "a5c4511747de5c734cc070c3fe9ff6052b20aa00bd1d3a9fd89c9e3e2962facb"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "93b1ca1569798d90a02b411f5287ae3cc6fdf0d36e152d05618ce349d00e5fc5"
 metafile = true
