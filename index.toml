@@ -239,6 +239,11 @@ hash = "ffec0eb07da96e0cdb4c751814676510c9d495e82d290cd24b0f272f5994c62c"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "58510b88f47699a5716c87d8815b8143250b0c1e8fc2a83be266d33907cd7137"
 metafile = true
@@ -316,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/corail-woodcutter.pw.toml"
 hash = "79cf8da908874fa6f815b1afbe53961d98f1244fd0f049d6637c5817df051bf8"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
@@ -456,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/effect-descriptions.pw.toml"
 hash = "11b72b9d42107a7c50cd3387fcb0b995293d532818b99e8cd79eaddb1e59e853"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
 metafile = true
 
 [[files]]
@@ -634,6 +649,11 @@ hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "5fba8ca299ecbbae2db4f72eeb37c4424a24b19cf4b450706232110da57dc64d"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "20635f91fe0e5a579f98f46f9bdfc9019e91a16eb17cf41b5b23c0ecd00fc8c7"
 metafile = true
@@ -711,6 +731,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "d2a52b0e13fd5ddc99ff744d5daea892faa0111945df898d84532735069c77f7"
 metafile = true
 
 [[files]]
