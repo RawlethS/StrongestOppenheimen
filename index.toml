@@ -649,11 +649,6 @@ hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "5fba8ca299ecbbae2db4f72eeb37c4424a24b19cf4b450706232110da57dc64d"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "20635f91fe0e5a579f98f46f9bdfc9019e91a16eb17cf41b5b23c0ecd00fc8c7"
 metafile = true
@@ -731,11 +726,6 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "d2a52b0e13fd5ddc99ff744d5daea892faa0111945df898d84532735069c77f7"
 metafile = true
 
 [[files]]
