@@ -974,11 +974,6 @@ hash = "218178eaaf17d1d89d6d4b3d72496cbb5deb1e38f364de03123a0927d7f2bee6"
 metafile = true
 
 [[files]]
-file = "mods/recast.pw.toml"
-hash = "598e0675e874ebd7d37b70864b04170c144d25e95d61030d6d3daf380ca974bb"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "eaae4220dc61ac8cd1899ea2dacc0391db126b2f02291bd871c416002e4b08c1"
 metafile = true
@@ -1131,11 +1126,6 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "9b612a6995d9cbf4d2a8ca26db36a6d302b488597c3973ca5fb9d4f254d3bb72"
-metafile = true
-
-[[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
 metafile = true
 
 [[files]]
