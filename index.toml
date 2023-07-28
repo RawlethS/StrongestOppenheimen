@@ -464,6 +464,11 @@ hash = "b6a2eece281f73726473d67ae7de5010886a6bf82a75ea3049620851f70c11b1"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "9af09f62b77f9ae3ed1188fb65b84325cc121301dbdf532e961c6f1876a4c6e3"
+metafile = true
+
+[[files]]
 file = "mods/ecospherical-expansion.pw.toml"
 hash = "501d8fadb537da7104d90fab54ab03250d2a4ec6087bba986bf35bfc3d72fe48"
 metafile = true
