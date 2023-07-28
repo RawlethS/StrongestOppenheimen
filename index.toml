@@ -1322,3 +1322,8 @@ metafile = true
 file = "resourcepacks/incendium-optional-resourcepack.pw.toml"
 hash = "ef7eeaf34f1110b22e75a1bcd43ccb9c23bc1ffadf5952b222912d900a535bf8"
 metafile = true
+
+[[files]]
+file = "resourcepacks/shield-corrections.pw.toml"
+hash = "2e532e1ee5f359ac26db3818fba7feedf8272f7d7dc5fd4fe54e8eb961cfddd2"
+metafile = true
