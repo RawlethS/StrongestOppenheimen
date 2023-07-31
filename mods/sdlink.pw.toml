@@ -1,0 +1,13 @@
+name = "Simple Discord Link"
+filename = "SimpleDiscordLink-forge-1.20-2.2.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sh0YauEf/versions/f3SdouB3/SimpleDiscordLink-forge-1.20-2.2.2.jar"
+hash-format = "sha1"
+hash = "1882404caf0918e91c2b4cc991edfb22e4a6fc2e"
+
+[update]
+[update.modrinth]
+mod-id = "Sh0YauEf"
+version = "f3SdouB3"

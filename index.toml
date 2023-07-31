@@ -344,6 +344,11 @@ hash = "e18930ec90d0c7415a669a36de6eade9de52092635ff6bcf4cdea0efcdfb88cc"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "882e1813016436a3075b54c4103cfeebaeda7de54687992842e82010fe36ac76"
+metafile = true
+
+[[files]]
 file = "mods/create-balanced-flight.pw.toml"
 hash = "5fcc791a2c7f0a4b98edf0d150d26754dfef01d2478343e027d042b5b160ab72"
 metafile = true
@@ -1066,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/scorched.pw.toml"
 hash = "94c29bfc3309f3da6e08f1d09502bf1f5fc0730d2fa578801daf1f297d6f502a"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "12331b74f83618e2be4efab372d4c42d438dfbc99b9bc984514ab64a06a36643"
 metafile = true
 
 [[files]]
