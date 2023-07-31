@@ -1,13 +1,13 @@
 name = "Kobolds"
-filename = "Kobolds-2.8.6.jar"
+filename = "Kobolds-2.8.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ufaxN0Ay/versions/ZqSxl5hR/Kobolds-2.8.6.jar"
+url = "https://cdn.modrinth.com/data/ufaxN0Ay/versions/VEswdjrK/Kobolds-2.8.8.jar"
 hash-format = "sha1"
-hash = "d155d4b497cb70800d3e3d9bf642c2b376f89639"
+hash = "0e6d3ef84ad519d4ca7e4f3a729b01faa115ed45"
 
 [update]
 [update.modrinth]
 mod-id = "ufaxN0Ay"
-version = "ZqSxl5hR"
+version = "VEswdjrK"
