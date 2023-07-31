@@ -259,6 +259,11 @@ hash = "58de3eb3fec1467a6d1e0efd3c77f36546dbb208031a1eb5f2bdc4e93a93fc4b"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "439c1756529e6506f3b3f50ba11879d093b813072fda87d54162f3bf485400a1"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "69bc4ca6cf42ef8af7a453934eb30282fe9e2ada21eacbe905470d4c2b160b47"
 metafile = true
@@ -1106,6 +1111,11 @@ metafile = true
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "21518d0f2d162b8f7de40d46eba3c7daad6c858b8157ec0b8739b62418e7ddc4"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "1fdfe0cbfccf90bfe0ff8bb145f7f83d7d7540cb14f1c4171de36fc2ed02efb4"
 metafile = true
 
 [[files]]
