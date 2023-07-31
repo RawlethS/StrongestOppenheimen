@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "882e1813016436a3075b54c4103cfeebaeda7de54687992842e82010fe36ac76"
+hash = "d7024469606bb9052c8bb6ff675706c8c72128de14473c18f40b731829f25c88"
 metafile = true
 
 [[files]]
