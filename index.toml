@@ -904,11 +904,6 @@ hash = "9ae02df2bca3ec877aa58ab492716102e56f80b9d33ce33aad9c15fd30f7a87f"
 metafile = true
 
 [[files]]
-file = "mods/moss-fix.pw.toml"
-hash = "7161ba4fad78c911cfa33389506973d05f1c3d44fd9b0e965b6809a30881a6c1"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
