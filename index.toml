@@ -129,6 +129,11 @@ hash = "4199033cea53bfc5178acc11721f9b4eef03aefa515d32ffae36948c535d60c5"
 metafile = true
 
 [[files]]
+file = "mods/autofish-for-forge.pw.toml"
+hash = "9e245c5e6007bcdfaeded72c61dacb8f8ecd1427f4eb14c30b15f3ca08065cca"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "943bd83f41b472ed7b4dd4236c826bd8f36983c32e3e7841b9ceca4d01531d53"
 metafile = true
@@ -214,6 +219,11 @@ hash = "ed7327e1f7faafdaebbd79d8c2e4baf7eb97a3b429307f9479fb474e57cf4deb"
 metafile = true
 
 [[files]]
+file = "mods/blueflame.pw.toml"
+hash = "ae935b8c185bc5d8fb79c6ad4be557475d3f8eefe3338ff41336586ba485222f"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "45044ceaf49f257a75b60118ee8e1c96c94f9c5c62a2c5b33a846006e8ad1ab3"
 metafile = true
@@ -251,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "c0d0338a50614964efe0ee9cff9413614ec718ac6a5b9f19337b5f92964937ef"
+metafile = true
+
+[[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "8f40d03d52388ff40c8842b728ecec84d83d8f7cea43dbddef00345b9356bbe1"
 metafile = true
 
 [[files]]
@@ -519,6 +534,11 @@ hash = "7520f28551842509426079305d6543b6e75486ccf30071c26ef18b5c6a4c2a01"
 metafile = true
 
 [[files]]
+file = "mods/endermite-expansion.pw.toml"
+hash = "b812cdcb4a77c0516535723b28da667739d4a152b60da8b5ff9de71ead882e36"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "eba379d7995e69e15a1666fc6997841c93f656220137d3ac88c2ce79e696dd41"
 metafile = true
@@ -536,6 +556,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
+metafile = true
+
+[[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "5fbde71c66b5312aa1b689c9a75f53f629f125443a8c61493e9d6067c0cc1de5"
 metafile = true
 
 [[files]]
@@ -839,6 +864,11 @@ hash = "986020fce9df40c69d1e8f3102f3ead9fc538ab7452d7d141a92e6475cd5fbba"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "fdbb444431bcc96a17f21fee6f069985b257a19b718a639fdcc2d03fa137e932"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
 metafile = true
@@ -871,6 +901,11 @@ metafile = true
 [[files]]
 file = "mods/more-mobgriefing-options.pw.toml"
 hash = "9ae02df2bca3ec877aa58ab492716102e56f80b9d33ce33aad9c15fd30f7a87f"
+metafile = true
+
+[[files]]
+file = "mods/moss-fix.pw.toml"
+hash = "7161ba4fad78c911cfa33389506973d05f1c3d44fd9b0e965b6809a30881a6c1"
 metafile = true
 
 [[files]]
@@ -1071,6 +1106,16 @@ metafile = true
 [[files]]
 file = "mods/scorched.pw.toml"
 hash = "94c29bfc3309f3da6e08f1d09502bf1f5fc0730d2fa578801daf1f297d6f502a"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "520259c531d1308f821d648e71ff88872fa0cd8d3d7f6e1c78b9a1649420deea"
+metafile = true
+
+[[files]]
+file = "mods/sculk-expansion.pw.toml"
+hash = "50122878087d5c734bd03a6dce810259d741778fb263e6c50546b2d613bea405"
 metafile = true
 
 [[files]]
@@ -1309,6 +1354,11 @@ hash = "7d5dba4cf4a48ae96d728377767c5cd1b3d743967255b987d272c6f884372463"
 metafile = true
 
 [[files]]
+file = "mods/voidtotem.pw.toml"
+hash = "466dfa7d31ae7765d0b3aeb45feafb91995e28aaa2cc2f2bb130b035066bd747"
+metafile = true
+
+[[files]]
 file = "mods/warrior-rage.pw.toml"
 hash = "8e7c1cd5e79c7d0e8af4b5e418b871e2c45dc40608c5d89396fd733f472ee778"
 metafile = true
@@ -1326,6 +1376,11 @@ metafile = true
 [[files]]
 file = "mods/whetstones.pw.toml"
 hash = "1407e152dd691cb613519e88a166e72abed0f6937339657f8da7f1f415830dc2"
+metafile = true
+
+[[files]]
+file = "mods/wither-skeleton-archers-in-fortresses.pw.toml"
+hash = "a2788bca3d189dd9b0591b9844240dd79805a7274c3ec44c4a66bbc1d909a433"
 metafile = true
 
 [[files]]
@@ -1350,5 +1405,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/shield-corrections.pw.toml"
-hash = "71737dd839848760fc3fa6024f7d63ea59432f4a9775beb4e3c88e7ce3085490"
+hash = "2e532e1ee5f359ac26db3818fba7feedf8272f7d7dc5fd4fe54e8eb961cfddd2"
 metafile = true

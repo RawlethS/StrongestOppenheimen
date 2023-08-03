@@ -1,0 +1,13 @@
+name = "Moss Fix"
+filename = "mossfix-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2xPm31lF/versions/O5vFi1Zc/mossfix-1.6.1.jar"
+hash-format = "sha1"
+hash = "534e097f18d7775e0a06fa7d64988cd57472efe1"
+
+[update]
+[update.modrinth]
+mod-id = "2xPm31lF"
+version = "O5vFi1Zc"
