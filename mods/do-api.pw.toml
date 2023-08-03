@@ -1,13 +1,13 @@
 name = "Let's Do: API"
-filename = "doapi-1.2.5-forge.jar"
+filename = "doapi-1.2.6-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/CN7bcW4D/doapi-1.2.5-forge.jar"
+url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/o0DP7SgU/doapi-1.2.6-forge.jar"
 hash-format = "sha1"
-hash = "54535f2c53fcc844f242098bd98ad3dab7e69788"
+hash = "ecddcd6e8d065b6da0cbc72e21658fafd7e53e66"
 
 [update]
 [update.modrinth]
 mod-id = "4XJZeZbM"
-version = "CN7bcW4D"
+version = "o0DP7SgU"
