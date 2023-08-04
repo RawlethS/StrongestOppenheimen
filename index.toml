@@ -149,6 +149,11 @@ hash = "0f14bace851a24d3051652bc9c6f94112424bf668c6dc6356489bd46ca3af464"
 metafile = true
 
 [[files]]
+file = "mods/bdlib.pw.toml"
+hash = "5fd19cba1eeaf7a0ab1842cc6941035457c114ed4bec845c0a909601bd613eee"
+metafile = true
+
+[[files]]
 file = "mods/bed-benefits.pw.toml"
 hash = "e775255e2a20252644a43b26d6205496912e1f32f92a47b9ad104db05bf3d507"
 metafile = true
@@ -266,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "8f40d03d52388ff40c8842b728ecec84d83d8f7cea43dbddef00345b9356bbe1"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "d960f68e4c5e5f79eff91a277dc22d7acb49f04080fcf0fe1648b5a9a83e3d4f"
 metafile = true
 
 [[files]]
@@ -404,6 +414,11 @@ hash = "30965c8f7175dd885351bd6025ff5142761a7b27c7d213200ac4a77bdae97b95"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "51b93769f3554c718066708486d270cd4b8882b8588583530c7cd7f326d6b73e"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "9449c7ac60baf283822d34edae100286799fb591d4c47c35026b075ddbd8788f"
 metafile = true
@@ -436,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "67ec6cbf94d9fec675d7d342dec65228228585ca36f8bfb7b727b459f4779854"
+metafile = true
+
+[[files]]
+file = "mods/custom-credits.pw.toml"
+hash = "d3fc82db04fdf170aa53bd39f66c5986636e4e886bcca8113d851b3d4bcb71c8"
 metafile = true
 
 [[files]]
@@ -684,6 +704,11 @@ hash = "65378b27e31a702d6c668c831cf2f69d2d8f887e8f1708724b41ca657e787747"
 metafile = true
 
 [[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "923ad430bef5e7e867c38833ec5e6c2e9c83bddbb36916be871cd0911b7d8ab5"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "e47595fa7af65380c3449c02d6bf9ebdc5ab97ad0445c5180874df75b19e1b91"
 metafile = true
@@ -879,6 +904,11 @@ hash = "b7cb1e28623a39cbce0fc6a552817302bfcf4f4b5fc474bbdf3fdff8221ca5ff"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "450ca0afb7b32f34773ac32bda53535004460ccae2aa6a217d11d4aa9730583b"
+metafile = true
+
+[[files]]
 file = "mods/mob-lassos.pw.toml"
 hash = "21728cfae4d5cbbe5b8e10133f99ef627472a48dfe535794bc55a624db9d58f7"
 metafile = true
@@ -911,6 +941,11 @@ metafile = true
 [[files]]
 file = "mods/moyai.pw.toml"
 hash = "6bf13472a293a9e995918e085ebc294d178447f84e55258935c43a3dafe08ff6"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
 metafile = true
 
 [[files]]
@@ -1034,6 +1069,11 @@ hash = "a4ffee1ec8be598b03dc0d6583a344f90ecd5f6777c8b91d7f173dfa73d8dea5"
 metafile = true
 
 [[files]]
+file = "mods/rats.pw.toml"
+hash = "f48bcd7a0ce202657b7bfbdd879a91e9747d53c5abb8117a33b833119361039a"
+metafile = true
+
+[[files]]
 file = "mods/raw-ores-processing.pw.toml"
 hash = "218178eaaf17d1d89d6d4b3d72496cbb5deb1e38f364de03123a0927d7f2bee6"
 metafile = true
@@ -1096,6 +1136,11 @@ metafile = true
 [[files]]
 file = "mods/savage-ender-dragon.pw.toml"
 hash = "c1ec002bc144b51f5218be98dee496fa888356d377d57b28c7c692b5128dbe2f"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "b6f0d8886dc8cd45a47507d947342d163f69026cf2607827159b43ea6dfd7298"
 metafile = true
 
 [[files]]
@@ -1239,6 +1284,16 @@ hash = "3c8b097b00c77c248d4050da77dd3241a753e18e287a1955ca3f2711298fcd4e"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "4bf39da60baa5e30a04153964c25c9f17f4326f73eba78a4fd6a458b575c46ac"
+metafile = true
+
+[[files]]
+file = "mods/technobauble.pw.toml"
+hash = "5b6551a92e5f899cc1643d2b99f85a4049d9af84e948125c549c296eaba35f74"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "c9072b33298e95459c644344c8f8e7317a2f503a469e24bf51e63dca9c560db1"
 metafile = true
@@ -1286,6 +1341,16 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "54a83d0ca71f1464eb8ebe0ec0d60a1e1b017b1c1763b8229611cdb916363ddc"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-modded.pw.toml"
+hash = "e44cf1bb98f7354e438108c89f5d8b2f86aa6687695fd6ad569132253c5b0234"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "b93993a54c2ce2465446f58dc4b91caec4e5d9a1ade03c56f3eedddbb89879b2"
 metafile = true
 
 [[files]]
