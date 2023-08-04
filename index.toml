@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/autofish-for-forge.pw.toml"
-hash = "9e245c5e6007bcdfaeded72c61dacb8f8ecd1427f4eb14c30b15f3ca08065cca"
+hash = "ce5dec07ac39aa20b7a83c14e667c312047648905db9ce03d911ac06e1821374"
 metafile = true
 
 [[files]]
@@ -935,7 +935,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
+hash = "6b67eaeeb9077a252fe10072c5d39a5d942491e65bed2f82c37c17c69ceeb2fe"
 metafile = true
 
 [[files]]
