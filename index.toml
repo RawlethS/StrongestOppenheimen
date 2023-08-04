@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "38b031f3ce2742fc7b301e7eda88e799a3887cb9ded124637d4ae8504f9a77b8"
+hash = "a3bba97f75764b28c01e61089015b14faa4a0af4f5c3367510b356bcf71b1cd0"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "321ad33fdf27ffa379d28a61b73e9d9ab646253eef4100b765aad45365a660fa"
+hash = "8078bb934127f31d680b1ef1580476e7e73f7d094b958f74a32de4b38809d461"
 metafile = true
 
 [[files]]
@@ -1150,7 +1150,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "f0d87c3a15393c069fd9e44a59860136bc2cad0cd1b127e9c32eeb7189ba5557"
+hash = "c10098fd8c760123da48145ac767958ad43750e2ab9522d83f3fea36174adca6"
 metafile = true
 
 [[files]]
@@ -1285,7 +1285,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "01769faa5b4178c1a72ea9abc26278a9e422d37d987ba0e44b1fe8f6dff507e2"
+hash = "54a83d0ca71f1464eb8ebe0ec0d60a1e1b017b1c1763b8229611cdb916363ddc"
 metafile = true
 
 [[files]]
@@ -1340,7 +1340,7 @@ metafile = true
 
 [[files]]
 file = "mods/vinery.pw.toml"
-hash = "2b5c583712293b6338b95627be1cae337d58b1b61d6f05ebc6628c4c7f88e6ed"
+hash = "504aa20f963f2c4ba158d85edca054abeb8c4e0d11370a7450cd88dc2d340f0e"
 metafile = true
 
 [[files]]
@@ -1390,7 +1390,7 @@ metafile = true
 
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
-hash = "889bf9423527eeeb8143d7a744060dc7d018d786507d46bae112965d8750cdd8"
+hash = "7aca72d7440da7045b3bff8f754027deab9924a9bb52d768977b2862f2b619e4"
 metafile = true
 
 [[files]]
