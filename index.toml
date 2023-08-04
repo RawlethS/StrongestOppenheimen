@@ -1344,11 +1344,6 @@ hash = "54a83d0ca71f1464eb8ebe0ec0d60a1e1b017b1c1763b8229611cdb916363ddc"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "e44cf1bb98f7354e438108c89f5d8b2f86aa6687695fd6ad569132253c5b0234"
-metafile = true
-
-[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "b93993a54c2ce2465446f58dc4b91caec4e5d9a1ade03c56f3eedddbb89879b2"
 metafile = true
