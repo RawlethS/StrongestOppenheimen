@@ -1,12 +1,12 @@
 name = "Strongest Oppenheimen"
 author = "Varg"
-version = "1.4.3.4"
+version = "1.4.3.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "25d08e06d0882285edce652888c00093bd408cbb8b8daaf6635fcfc209897727"
+hash = "a292092d602ad3f4e643bbb8e69c76a28bfcc9f108f6a9ba087ddd33a5d96438"
 
 [versions]
 forge = "47.1.1"

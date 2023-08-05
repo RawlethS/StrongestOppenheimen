@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "33a002ebb2b5e8bb97e3a160cd93a2081cfb8a8c5f188f48c86deeeef996d394"
+hash = "b69796ebf043b9b2a06f3bb3770becfa6958609be8cd582c5b5e0ba841a0523d"
 metafile = true
 
 [[files]]
@@ -95,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/ars-creo.pw.toml"
-hash = "2f522d28fae21eb367f27d029b9c4b123b991b06830e399408043162110233b9"
+hash = "3c947528b3412d6b5e308b587c63bc357bf731a290c8843febcaa8879e0c4086"
 metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "aa9e54460b44fa265c09a5bcfd554535c923f0564a72155b54180b1ef6cb7ace"
+hash = "c4738b2e662442b928e43e668b859618da0dff8b50cf402a9254f762c5515bc2"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
-hash = "a3bba97f75764b28c01e61089015b14faa4a0af4f5c3367510b356bcf71b1cd0"
+hash = "9ee9258dfa1b930b36f842dd74107b59d68a611290ce1c3012213a644d141958"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "79592259e6f79f078bc8a8cf373682dc4c8b4b7b0ac743fa26509aa4da8c70d2"
+hash = "eb15330869bceecfdbde30b20c020faad3b95db0ce6a3e2e262b05325d9d0c3d"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "613699c75a8daa38870685b90105a3449500fdc8a915d6d15cf6a925401b757b"
+hash = "2be74f4628e45f6ba8402df0c1fee4c5cb7b648a78c4dd963b4457637e268fba"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "4d0b268c4676bb72dee5f5ee4bd04716396d985939932fa4d8b90157bec70609"
+hash = "6f1a8ef510ba8da5336bc87332a7c5c2a97954c5406b99f32de8230a4b0cf37b"
 metafile = true
 
 [[files]]
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "a4c70d0600f639f48397f2049ec8d0576ea08adbe5aada2fda602bbf8c05c3a4"
+hash = "083f3d83bf279675700a0fa7af02b59d9bd5d3045a4abb3c1bbe426fcf9073eb"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/kobolds.pw.toml"
-hash = "71adb9d7651c6c7cf87ea4ebb95f221c71a466175b76591e869a84c38df26922"
+hash = "9db8b97f8e627af3897d4aa69eff1bb03c66dc385e44b2fa14e02680ca60973d"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8078bb934127f31d680b1ef1580476e7e73f7d094b958f74a32de4b38809d461"
+hash = "dba878df333de99bc756f552f9fa01ec778c735f8f10adbcdee0620433b28fa0"
 metafile = true
 
 [[files]]
@@ -1090,17 +1090,17 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
-hash = "ea71c0b31da0594360e01763ce0f862158216adc240c0a7d9623e8f974fb6ed0"
+hash = "43f6a9712baa1af3fd808ba47a84d8cd9c394612f712b3db7d2b7a3a3c2637a6"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "cbba0008fd2ea7b01fa75cd4bdd78ecf7dd9cddafe6b673ef869548b67b126ec"
+hash = "76f93b12bba01e5649c2925889e640a72fd348a6a8a6c2ae2be3bea6d15f233c"
 metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "a437ff273708dc61a9aceee8c3bbd004b1938fae11cdb68007777999607485ac"
+hash = "0debf0e1f8313cdc838f189cfecf19217ec1cb9d031ce3951922acf95cbf65cd"
 metafile = true
 
 [[files]]
@@ -1125,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "e72d25a5c58f5083f26ec059b1e3231059159e18fa42ef473eb2f7e902e49b11"
+hash = "25d6f35a409f98b57d6e9003a9a0be5b2479fa08c9ed24d20da6eb29b3ccfffe"
 metafile = true
 
 [[files]]
@@ -1155,7 +1155,7 @@ metafile = true
 
 [[files]]
 file = "mods/sculk-expansion.pw.toml"
-hash = "50122878087d5c734bd03a6dce810259d741778fb263e6c50546b2d613bea405"
+hash = "431bcaa7274e71262c630b55b8ea8b412b4ceb7de99b561f7fd5e3a161d08edf"
 metafile = true
 
 [[files]]
@@ -1330,7 +1330,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-undergarden.pw.toml"
-hash = "239fad84ab458a9ebf0139a1b5e9eb97ee4d02a25795c3f1eddcf1e8e668acbb"
+hash = "e7154ec8ee17244ed6767c8ed8e75fbac35a64e62fbf131e97d5b08ebf800224"
 metafile = true
 
 [[files]]

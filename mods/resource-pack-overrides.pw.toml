@@ -1,13 +1,13 @@
 name = "Resource Pack Overrides"
-filename = "ResourcePackOverrides-v8.0.0-1.20.1-Forge.jar"
+filename = "ResourcePackOverrides-v8.0.1-1.20.1-Forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YsFycamt/versions/75cP6OFf/ResourcePackOverrides-v8.0.0-1.20.1-Forge.jar"
+url = "https://cdn.modrinth.com/data/YsFycamt/versions/4T9UD5Ej/ResourcePackOverrides-v8.0.1-1.20.1-Forge.jar"
 hash-format = "sha1"
-hash = "34949e4216e0781c3aefa30cccc8866acb01873e"
+hash = "8c23c476cbb32f91005ba321db1b720de2900d45"
 
 [update]
 [update.modrinth]
 mod-id = "YsFycamt"
-version = "75cP6OFf"
+version = "4T9UD5Ej"
